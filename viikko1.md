@@ -51,25 +51,35 @@ Hedelmiä
 
 ## Esittely
 
-# Nimi
+### Nimi
 
 **Miika** *Löytynoja*
 
-# Harrastukset (lopetetut)
+### Harrastukset (lopetetut)
 
 - jalkapallo
 - lentopallo
 - ilmakivääriammunta
 
-# Harrastukset (eniten aikaa tuhlattu)
+### Harrastukset (eniten aikaa tuhlattu)
 
  1. Videopelit
  2. Shakki
  3. Lukeminen
    
-# Satunnaista
+### Satunnaista
 
 [steam_profiili](https://steamcommunity.com/profiles/76561198160130960/)
 
-Tässä kuva kilpikonnasta
+---
+
+```Tässä kuva jostaki kilpikonnasta```
+
 ![konna](https://cdn11.bigcommerce.com/s-skdyft6w8e/images/stencil/original/carousel/5/1__67560.jpg?c=1&imbypass=on)
+
+| Lemmikit   | Nimet |
+|------------|-------|
+| Kilpikonna | Otto  |
+| Koira      | Noki  |
+
+>Meikä on iha mankelis tän takii
