@@ -18,3 +18,11 @@ Hedelmiä
 [github](https://github.com/)
 ### Kuvan url
 ![bird](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitnM-UfWQqmxsXKcQKoUWt0nmS738A1ZGUQ&s)
+### Taulukko
+| Nimi  | Ikä |
+|-------|-----|
+| Jussi | 66  |
+| Niina | 41  |
+| Kalle | 89  |
+### Koodilohko
+```Mitä tää tekee```
